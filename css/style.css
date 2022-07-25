@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    margin: auto;
+    display: block;
+    height: 90vh;
+    border: 1px solid #e8e8e8;
+}
+body{
+    background-color: crimson;
+}
